@@ -1,5 +1,5 @@
 # gatsby_blog
-gatsbyjs blog system 
+gatsbyjs blog system\
 features:\
 hashtags (frontmatter)\
 categories (frontmatter)\ 
